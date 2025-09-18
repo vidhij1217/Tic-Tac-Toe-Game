@@ -16,7 +16,7 @@ Play against a friend, enjoy smooth interactions, and see who wins first!
 - **JavaScript** – Game logic & interactivity  
 
 ## 📸 Screenshot
-`![Tic Tac Toe Screenshot](./images/demo.png)`
+![Tic Tac Toe Screenshot](./images/demo.png)
 
 ## 🚀 How to Play
 1. Open the game in your browser.  
